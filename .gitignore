@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# React
+client/node_modules/
+client/.env
+
+# Build output
+dist/
+build/
+
+# System
+.DS_Store
+*.swp
+
+# Vite
+client/.vite
+
+# Optional
+.env.*
